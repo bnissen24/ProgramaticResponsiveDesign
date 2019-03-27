@@ -1,0 +1,20 @@
+.large-desktop {
+    background-color: yellow;
+}
+
+.small-desktop {
+    background-color: red;
+}
+
+.tablet {
+    background-color: green;
+}
+
+.mobile {
+    background-color: blue;
+    color: white;
+}
+
+.container {
+    padding: 10px;
+}
